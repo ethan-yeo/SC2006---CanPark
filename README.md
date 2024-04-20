@@ -2,7 +2,7 @@
 > Done by: Ethan, Joshua, Merwyn , Wonseok , Song Chen, Brian
 
 ## Intro
-Given the recent congestion at car parks in Singapore, a user-friendly car-parking app that displays the availability of nearby car parks becomes essential. ParkProximity is a mobile application that displays the availability of car parks near the user and provides directions to the selected car park. Additional features include navigation to the nearby car park, pinpointing parked car locations, retrieving a record of the user’s parking history, and saving favourites.
+Given the recent congestion at car parks in Singapore, a user-friendly car-parking app that displays the availability of nearby car parks becomes essential. CanPark is a mobile application that displays the availability of car parks near the user and provides directions to the selected car park. Additional features include navigation to the nearby car park, pinpointing parked car locations, retrieving a record of the user’s parking history, and saving favourites.
 
 This product is to help users make use of the publicly available datasets from data.gov.sg and Land Transport Authority APIs. The product adds on to these datasets by providing search functionality and provides directions using the Google Maps API.
 
